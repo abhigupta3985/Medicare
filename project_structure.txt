@@ -1,0 +1,100 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is B4A9-A03F
+C:.
+�   .env
+�   .gitignore
+�   eslint.config.js
+�   index.html
+�   package-lock.json
+�   package.json
+�   postcss.config.js
+�   project_structure.txt
+�   tailwind.config.js
+�   tsconfig.app.json
+�   tsconfig.json
+�   tsconfig.node.json
+�   vite.config.ts
+�   
++---.bolt
+�       config.json
+�       prompt
+�       
++---node_modules
+�  
++---src
+    �   App.tsx
+    �   index.css
+    �   main.tsx
+    �   theme.ts
+    �   vite-env.d.ts
+    �   
+    +---components
+    �   +---cart
+    �   �       CartDrawer.tsx
+    �   �       CartItem.tsx
+    �   �       
+    �   +---filters
+    �   �       FilterDrawer.tsx
+    �   �       
+    �   +---layout
+    �   �       Footer.tsx
+    �   �       Header.tsx
+    �   �       Layout.tsx
+    �   �       
+    �   +---medicines
+    �   �       MedicineCard.tsx
+    �   �       MedicineCardList.tsx
+    �   �       ProductDetails.tsx
+    �   �       RecommendedProducts.tsx
+    �   �       
+    �   +---prescription
+    �   �       PrescriptionUpload.tsx
+    �   �       
+    �   +---search
+    �   �       SearchDrawer.tsx
+    �   �       
+    �   +---ui
+    �           ScrollToTop.tsx
+    �           ToastContainer.tsx
+    �           
+    +---features
+    �   +---auth
+    �   �       authSlice.ts
+    �   �       
+    �   +---cart
+    �   �       cartSlice.ts
+    �   �       
+    �   +---hooks
+    �   �       useAppDispatch.ts
+    �   �       
+    �   +---medicines
+    �   �       medicinesSlice.ts
+    �   �       
+    �   +---orders
+    �   �       ordersSlice.ts
+    �   �       
+    �   +---ui
+    �   �       uiSlice.ts
+    �   �       
+    �   +---wishlist
+    �           wishlistSlice.ts
+    �           
+    +---pages
+    �       CartPage.tsx
+    �       CheckoutPage.tsx
+    �       HomePage.tsx
+    �       LoginPage.tsx
+    �       NotFoundPage.tsx
+    �       OrderTrackingPage.tsx
+    �       ProductPage.tsx
+    �       ProfilePage.tsx
+    �       RegisterPage.tsx
+    �       SearchPage.tsx
+    �       
+    +---services
+    �       firebase.ts
+    �       mockData.ts
+    �       
+    +---store
+            index.ts
+            
