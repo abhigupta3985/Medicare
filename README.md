@@ -1,3 +1,13 @@
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-fast-purple)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-teal)
+![ReduxToolkit](https://img.shields.io/badge/Redux_Toolkit-State_Management-purple)
+![Firebase](https://img.shields.io/badge/Firebase-Auth%20%26%20Storage-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
+
+
+
+
 # Medicare - Online Pharmacy Platform
 
 ## Introduction
